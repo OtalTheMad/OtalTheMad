@@ -6,10 +6,10 @@
 
 ## 🧰 Stack Tecnológico
 
-- 💻 Lenguajes: C#, JavaScript, PHP
+- 💻 Lenguajes: C#, Java, PHP
 - 🧱 Frameworks: .NET, Laravel
-- ⚙️ Plataformas: ServiceNow, WinForms
-- 🌐 Interés especial en aplicaciones de escritorio y sistemas de gestión
+- ⚙️ Plataformas: ServiceNow, WinForms, WPF
+- 🌐 Interés especial en aplicaciones de escritorio
 
 ---
 
